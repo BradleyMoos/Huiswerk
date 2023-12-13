@@ -1,0 +1,86 @@
+header{
+    background-color: #254dff;
+    width: 59%;
+    height: 60px;
+}
+h1{
+    color: white;
+}
+h5{
+    color: white;
+}
+
+#bob{
+    color: aqua;
+    background-color: yellow;
+}
+#ski{
+    color: blue;
+    background-color: purple;
+}
+#loo{
+    color: black;
+    background-color: aquamarine;
+}
+#ak4c1{
+    background-color: bisque;
+}
+
+
+#spe{
+    color: beige;
+    background-color: green;
+}
+#ron{
+    color: aliceblue;
+    background-color: greenyellow;
+}
+#spl{
+    color: blueviolet;
+    background-color: pink;
+}
+#ak4c2{
+    background-color: palegoldenrod;
+}
+
+#bam{
+    color: white;
+    background-color: lightcoral;
+}
+#fri{
+    color: aqua;
+    background-color: indianred;
+}
+#kro{
+    color: lightcyan;
+    background-color: gold;
+}
+#ak4c3{
+    background-color: forestgreen;
+}
+
+#bee{
+    color: ivory;
+    background-color: wheat;
+}
+#beh{
+    color: hotpink;
+    background-color: orange;
+}
+#pro{
+    color: azure;
+    background-color: teal;
+}
+#ak4c4{
+    background-color: lawngreen;
+}
+
+
+
+
+            footer{
+                background-color: #254dff;
+                width: 59%;
+                height: 80px;
+            }
+        </style>
